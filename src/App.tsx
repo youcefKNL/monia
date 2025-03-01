@@ -765,7 +765,7 @@ function App() {
                     <User size={20} className="mr-4 mt-1" />
                     <div>
                       <h4 className="font-medium">Malt</h4>
-                      <p>https://www.malt.fr/profile/votre-nom-utilisateur</p>
+                      <p>https://www.malt.fr/profile/moniaammar</p>
                     </div>
                   </div>
 
@@ -830,7 +830,7 @@ function App() {
               </a>
 
               <a
-                href="https://www.malt.fr/profile/votre-nom-utilisateur" // Remplacez par l'URL de votre profil Malt
+                href="https://www.malt.fr/profile/moniaammar" // Remplacez par l'URL de votre profil Malt
                 target="_blank" // Ouvre le lien dans un nouvel onglet
                 rel="noopener noreferrer" // Bonne pratique pour les liens externes
                 className="text-gray-400 hover:text-amber-400 transition-colors duration-300"
