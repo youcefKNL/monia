@@ -115,7 +115,7 @@ function App() {
               <div className="relative">
                 <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-amber-200">
                   <img 
-                    src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+                    src="https://github.com/youcefKNL/monia/blob/main/public/profile-pic.png?raw=true" 
                     alt="Marie Dupont - Formaliste Senior" 
                     className="w-full h-full object-cover"
                   />
