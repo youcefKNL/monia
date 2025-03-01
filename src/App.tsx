@@ -46,8 +46,8 @@ function App() {
       <header className={`fixed w-full z-50 transition-all duration-300 ${scrollY > 50 ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'}`}>
         <div className="container mx-auto px-4 md:px-8 flex justify-between items-center">
           <div className="text-2xl font-bold">
-            <span className="text-black">Marie</span>
-            <span className="text-amber-600">Dupont</span>
+            <span className="text-black">Monia</span>
+            <span className="text-amber-600">Ammar</span>
           </div>
           
           {/* Desktop Navigation */}
@@ -101,7 +101,7 @@ function App() {
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 mb-8">Création, modification et finalisation de sociétés</p>
               <p className="text-gray-700 mb-8 max-w-lg">
-                Experte en formalités juridiques avec plus de 8 ans d'expérience. 
+                Experte en formalités juridiques avec plus de 10 ans d'expérience. 
                 Je simplifie vos démarches administratives de A à Z.
               </p>
               <button 
